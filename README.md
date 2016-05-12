@@ -63,7 +63,7 @@ All you need is a Github account. There are basically four type of users:
 
 [Watch the php-cds/php-cds](https://github.com/php-cds/php-cds/watchers) and especially [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) repositories to see new incoming RFCs andd PSRs. Vote immediately using the [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
 with :+1: and :-1: on incoming RFCs in the issue tracker.
-You can vote RFcs in [php-cds/php-cds](https://github.com/php-cds/php-cds) and PSRs in [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr). We will however announce in [reddit.com/r/php](www.reddit.com/r/PHP/) and [Twitter @php_cds](https://twitter.com/php_cds) about new and ending PSR votings as well as ending RFCs.
+You can vote RFcs in [php-cds/php-cds](https://github.com/php-cds/php-cds) and PSRs in [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr). We will however announce in [reddit.com/r/php](https://www.reddit.com/r/PHP/) and [Twitter @php_cds](https://twitter.com/php_cds) about new and ending PSR votings as well as ending RFCs.
 
 ### Discussion people
 

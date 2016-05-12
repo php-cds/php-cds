@@ -51,12 +51,12 @@ All you need is a Github account. There are basically four type of users:
 
 ### Voter
 
-Watch the php-cds/php-cds repository to see new incoming RFCs. Vote immediately using the [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
+[Watch the php-cds/php-cds](https://github.com/php-cds/php-cds/watchers) repository to see new incoming RFCs. Vote immediately using the [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
 with :+1: and :-1: on incoming RFCs in the issue tracker.
 
 ### Discussion people
 
-If you want to get more involved, you can watch the repository php-cds/php-cds-discussion, where pull-requests and deeper
+If you want to get more involved, you can watch the repository [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion), where pull-requests and deeper
 discussion about implementions happen. You can participate on all discussions in this repository.
 
 ### Supporter
@@ -66,7 +66,7 @@ of this concept and also that you try to follow the standards made by this commu
 
 ### Mods
 
-To keep discussions on a human level and close RFCs that are negative voted, there are mods. If you want to be a mod, write a php-cds/php-cds issue.
+To keep discussions on a human level and close RFCs that are negative voted, there are mods. If you want to be a mod, write a [php-cds/php-cds issue](https://github.com/php-cds/php-cds/issues).
 However, the idea of this is not to limit any discussion and do censorship. In best world, mods are not involved at all. They do not have any special
 purpose except to clean up.
 
@@ -74,7 +74,7 @@ purpose except to clean up.
 
 ### Create a RFC
 
-RFC (request for comments) are made using the Github issue tracker of the php-cds/php-cds repository. You can create a issue, add a title prefixed with [RFC] and
+RFC (request for comments) are made using the Github issue tracker of the [php-cds/php-cds](https://github.com/php-cds/php-cds/issues) repository. You can create a issue, add a title prefixed with [RFC] and
 start writing about your idea. That's it. Its probably worth to mention: Try to keep issue as small as possible so people will
 get very fast a picture of your idea and are able to vote.
 
@@ -113,6 +113,9 @@ All PSRs have per default no version affix. If a change in the PSR happens, the 
 Example "PSR-event-dispatcher" gets new methods to its API or other changes, then new version will be "PSR-event-dispatcher-2".
 All current PSRs and versions are displayed in the php-cds repositories.
 
+## Close RFC and PSR
+
+Every issue created in [php-cds/php-cds]|(https://github.com/php-cds/php-cds) (which represent a RFC) or [php-cds/php-cds-psr]|(https://github.com/php-cds/php-cds-psr) (which represent a PSR) have a voting time. Voting time is always 30 days since the create date. If a RFC or PSR has more than 1/3 negative votes it will be closed.
 
 
 

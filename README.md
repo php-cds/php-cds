@@ -100,7 +100,7 @@ Creating a issue in this repository mean, you want to have a final vote on the R
 to become a official PSR.
 It's completely up to you how you write that proposal. Any github member is able to express his favour as comment or as a vote using :+1: and :-1:.
 
-Vote is successful if 2/3 of all votes are positivle (:+1:). This means that a RFC becomes a PSR, which will be officially
+Vote is successful if 2/3 of all votes are positive (:+1:). This means that a RFC becomes a PSR, which will be officially
 marked/highlighted in the php-cds repositories. Note that this doesn't mean automatically everyone should use it, its only
 a recommendation.
 

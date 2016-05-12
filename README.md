@@ -78,8 +78,7 @@ If you want to get more involved, you can watch the [php-cds/php-cds-discussion]
 
 ### Support
 
-You can express your support for a standard by pressing the star button. This signals to other people that you support the idea
-or concept and also that you have an active interest in community driven standards.
+You can express your support for PHP-CDS by pressing the star button. This signals to other people that you support this concept and also that you have an active interest in adopting those community driven standards.
 
 ### Moderate
 

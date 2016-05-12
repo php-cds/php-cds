@@ -3,8 +3,8 @@
 PHP CDS is not a group or organisation, it's a concept. What people could do here is to create RFCs for standards,
 vote for it and discuss it.
 
-Its **aim is to** be loosely coupled to any individual, group or organisation as possible.
-RFCs/Standards are proposes, voted and discussed in the most simple fashion possible by the community,
+Its **aim is to** be as loosely coupled to any individual, group or organisation as possible.
+RFCs/Standards are proposed, voted and discussed in the most simple fashion possible by the community,
 so basically by anyone who is willing to contribute to the PHP community.
 
 Its **aim is not** to propose own standards, have members or limit any discussion.

@@ -4,6 +4,8 @@
 <img src="https://avatars3.githubusercontent.com/u/19323243?v=3&s=300" width="150" />
 </p>
 
+[![Gitter](https://badges.gitter.im/php-cds/php-cds.svg)](https://gitter.im/php-cds/php-cds?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 PHP CDS is not a group or organisation, it's a concept. What people could do here is to create RFCs for standards,
 vote for it and discuss it.
 

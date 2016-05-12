@@ -93,7 +93,7 @@ your RFC can discuss and reply at any time. You can also create Pull-Requests so
 ## Publish PSR
 
 Once on a RFC has been voted, you decided to create a discussion and a concrete implemention, and you think your work is
-done and ready for prime time: this RFC becomes a PSR-proposal as soon as you create a issue in the
+done and ready for prime time: this RFC becomes a PSR-proposal (PHP Standard Recommendation) as soon as you create a issue in the
 [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) repository.
 
 Creating a issue in this repository mean, you want to have a final vote on the RFC asking the community
@@ -110,12 +110,12 @@ PSRs do not have numbers, they have names. Example "PSR-event-dispatcher", "PSR-
 namespace they are living in ("PSR-event-dispatcher" -> `Psr\EventDispatcher`).
 
 All PSRs have per default no version affix. If a change in the PSR happens, the version is increased always by 1.
-Example "PSR-event-dispatcher" gets new methods to its API or other changes, then new version will be "PSR-event-dispatcher-2".
+Example "PSR-event-dispatcher" gets new methods to its API or other changes, then the new version will be "PSR-event-dispatcher-2".
 All current PSRs and versions are displayed in the php-cds repositories.
 
 ## Close RFC and PSR
 
-Every issue created in [php-cds/php-cds]|(https://github.com/php-cds/php-cds) (which represent a RFC) or [php-cds/php-cds-psr]|(https://github.com/php-cds/php-cds-psr) (which represent a PSR) have a voting time. Voting time is always 30 days since the create date. If a RFC or PSR has more than 1/3 negative votes it will be closed.
+Every issue created in [php-cds/php-cds](https://github.com/php-cds/php-cds) (which represent a RFC) or [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) (which represent a PSR) have a voting time. Voting time is always 30 days since the create date. If a RFC or PSR has more than 1/3 negative votes it will be closed.
 
 
 

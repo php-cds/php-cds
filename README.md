@@ -39,8 +39,8 @@ using :+1: and :-1:. Due to this immediate feedback, the author sees pretty fast
 
 ### Discussion on implementation
 
-If a author decides to create a concrete implemention of an interface/API/document based of an RFC,
-then all discussion about this is happening in the repository php-cds/php-cds-discussion.
+If a author decides to create a concrete implemention of an interface/API/document based of a RFC,
+then all discussion about this is happening in the  [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion) repository.
 You may ask why: Because this way people aren't flooded with
 message alerts, when they just want to act as a voter. They have the ability to watch for news/RFCs using the Github watch
 function of [php-cds/php-cds](https://github.com/php-cds/php-cds) or when they want to be more involved they could watch [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion).

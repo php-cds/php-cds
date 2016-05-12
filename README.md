@@ -1,5 +1,9 @@
 # PHP Community Driven Standards
 
+<p align="center">
+<img src="https://avatars3.githubusercontent.com/u/19323243?v=3&s=300" width="150" />
+</p>
+
 PHP CDS is not a group or organisation, it's a concept. What people could do here is to create RFCs for standards,
 vote for it and discuss it.
 
@@ -14,15 +18,21 @@ to convince some special people: The community as a whole can vote your idea imm
 
 ## PSRs
 
-There are currently following PSRs available:
+### From PHP-CDS
 
-|  Version   | Name|
-|------------|-----|
-|    1       | [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)
-|    1       | [PSR-1-basic-coding-standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
-|    1       | [PSR-2-coding-style-guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
-|    1       | [PSR-3-logger-interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md)
-|    1       | [PSR-4-autoloader-meta](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-meta.md)
+None yet.
+
+### From PHP-FIG
+
+|  Name|
+|------|
+| [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)
+| [PSR-1 Basic Coding Standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
+| [PSR-2 Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+| [PSR-3 Logge Interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md)
+| [PSR-4 Autoloader](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
+| [PSR-6 Caching Interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
+| [PSR-7 HTTP Message Interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
 
 
 ## How this works
@@ -32,9 +42,9 @@ There are currently following PSRs available:
 RFCs is a request-for-comment, mostly in form of just an issue in [php-cds/php-cds](https://github.com/php-cds/php-cds/issues/new) repository.
 The author writes down his idea, maybe even first draft of API and open it immediately for discussion and voting.
 
-### Vote RFC
+### Vote RFCs and PSRs
 
-RFCs can be voted immeditely by using [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
+RFCs and PSRs can be voted immeditely by using [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
 using :+1: and :-1:. Due to this immediate feedback, the author sees pretty fast whether its worth to keep working on it.
 
 ### Discussion on implementation
@@ -51,8 +61,9 @@ All you need is a Github account. There are basically four type of users:
 
 ### Voter
 
-[Watch the php-cds/php-cds](https://github.com/php-cds/php-cds/watchers) repository to see new incoming RFCs. Vote immediately using the [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
+[Watch the php-cds/php-cds](https://github.com/php-cds/php-cds/watchers) and especially [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) repositories to see new incoming RFCs andd PSRs. Vote immediately using the [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
 with :+1: and :-1: on incoming RFCs in the issue tracker.
+You can vote RFcs in [php-cds/php-cds](https://github.com/php-cds/php-cds) and PSRs in [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr). We will however announce in [reddit.com/r/php](www.reddit.com/r/PHP/) and [Twitter @php_cds](https://twitter.com/php_cds) about new and ending PSR votings as well as ending RFCs.
 
 ### Discussion people
 
@@ -115,7 +126,7 @@ All current PSRs and versions are displayed in the php-cds repositories.
 
 ## Close RFC and PSR
 
-Every issue created in [php-cds/php-cds](https://github.com/php-cds/php-cds) (which represent a RFC) or [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) (which represent a PSR) have a voting time. Voting time is always 30 days since the create date. If a RFC or PSR has more than 1/3 negative votes it will be closed.
+Every issue created in [php-cds/php-cds](https://github.com/php-cds/php-cds) (which represent a RFC) or [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) (which represent a PSR) have a voting time. Voting time is always 14 days since the create date. If a RFC or PSR has more than 1/3 negative votes it will be closed.
 
 
 

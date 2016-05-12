@@ -41,18 +41,18 @@ None yet.
 
 ### Create RFC
 
-RFCs is a request-for-comment, mostly in form of just an issue in [php-cds/php-cds](https://github.com/php-cds/php-cds/issues/new) repository.
-The author writes down his idea, maybe even first draft of API and open it immediately for discussion and voting.
+An RFC is a request-for-comment, mostly in form of just an issue in [php-cds/php-cds](https://github.com/php-cds/php-cds/issues/new) repository.
+The author writes down his idea, maybe even first draft of API, and then open it immediately for discussion and voting.
 
 ### Vote RFCs and PSRs
 
-RFCs and PSRs can be voted immeditely by using [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
+RFCs and PSRs can be voted immediately by using [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
 using :+1: and :-1:. Due to this immediate feedback, the author sees pretty fast whether its worth to keep working on it.
 
 ### Discussion on implementation
 
-If a author decides to create a concrete implemention of an interface/API/document based of a RFC,
-then all discussion about this is happening in the  [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion) repository.
+If a author decides to create a concrete implementation of an interface/API/document based of a RFC,
+then all discussion about this will occur in the  [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion) repository.
 You may ask why: Because this way people aren't flooded with
 message alerts, when they just want to act as a voter. They have the ability to watch for news/RFCs using the Github watch
 function of [php-cds/php-cds](https://github.com/php-cds/php-cds) or when they want to be more involved they could watch [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion).
@@ -65,12 +65,12 @@ All you need is a Github account. There are basically four type of users:
 
 [Watch the php-cds/php-cds](https://github.com/php-cds/php-cds/watchers) and especially [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) repositories to see new incoming RFCs andd PSRs. Vote immediately using the [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
 with :+1: and :-1: on incoming RFCs in the issue tracker.
-You can vote RFcs in [php-cds/php-cds](https://github.com/php-cds/php-cds) and PSRs in [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr). We will however announce in [reddit.com/r/php](https://www.reddit.com/r/PHP/) and [Twitter @php_cds](https://twitter.com/php_cds) about new and ending PSR votings as well as ending RFCs.
+You can vote RFcs in [php-cds/php-cds](https://github.com/php-cds/php-cds) and PSRs in [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr). We will however announce in [reddit.com/r/php](https://www.reddit.com/r/PHP/) and [Twitter @php_cds](https://twitter.com/php_cds) about new and ending PSR voting as well as ending RFCs.
 
 ### Discussion people
 
 If you want to get more involved, you can watch the repository [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion), where pull-requests and deeper
-discussion about implementions happen. You can participate on all discussions in this repository.
+discussion about implementations happen. You can participate on all discussions in this repository.
 
 ### Supporter
 
@@ -88,7 +88,7 @@ purpose except to clean up.
 ### Create a RFC
 
 RFC (request for comments) are made using the Github issue tracker of the [php-cds/php-cds](https://github.com/php-cds/php-cds/issues) repository. You can create a issue, add a title prefixed with [RFC] and
-start writing about your idea. That's it. Its probably worth to mention: Try to keep issue as small as possible so people will
+start writing about your idea. That's it. It's probably worthwhile to mention: Try to keep issue as small as possible so people will
 get very fast a picture of your idea and are able to vote.
 
 ## How to vote on a RFC
@@ -119,7 +119,7 @@ a recommendation.
 
 ## PSR names and changes
 
-PSRs do not have numbers, they have names. Example "PSR-event-dispatcher", "PSR-logging", ideally corrosponding to the PHP
+PSRs do not have numbers, they have names. Example "PSR-event-dispatcher", "PSR-logging", ideally corresponding to the PHP
 namespace they are living in ("PSR-event-dispatcher" -> `Psr\EventDispatcher`).
 
 All PSRs have per default no version affix. If a change in the PSR happens, the version is increased always by 1.
@@ -129,10 +129,3 @@ All current PSRs and versions are displayed in the php-cds repositories.
 ## Close RFC and PSR
 
 Every issue created in [php-cds/php-cds](https://github.com/php-cds/php-cds) (which represent a RFC) or [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) (which represent a PSR) have a voting time. Voting time is always 14 days since the create date. If a RFC or PSR has more than 1/3 negative votes it will be closed.
-
-
-
-
-
-
-

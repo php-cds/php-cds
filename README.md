@@ -31,7 +31,7 @@ None yet.
 | [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)
 | [PSR-1 Basic Coding Standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
 | [PSR-2 Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
-| [PSR-3 Logge Interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md)
+| [PSR-3 Logger Interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md)
 | [PSR-4 Autoloader](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
 | [PSR-6 Caching Interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-6-cache.md)
 | [PSR-7 HTTP Message Interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-7-http-message.md)

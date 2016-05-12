@@ -45,7 +45,7 @@ You may ask why: Because this way people aren't flooded with
 message alerts, when they just want to act as a voter. They have the ability to watch for news/RFCs using the Github watch
 function of [php-cds/php-cds](https://github.com/php-cds/php-cds) or when they want to be more involved they could watch [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion).
 
-## Get invovled
+## Get involved
 
 All you need is a Github account. There are basically four type of users:
 

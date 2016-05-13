@@ -82,7 +82,7 @@ You can express your support for PHP-CDS by pressing the star button. This signa
 
 ### Moderate
 
-To keep discussions level-headed and to maintain state of RFCs, moderators are needed. If you want to be a moderator, create a [php-cds/php-cds issue](https://github.com/php-cds/php-cds/issues).
+To keep discussions level-headed and to maintain state of RFCs, moderators are needed. If you want to be a moderator and you are a trustworthy member of the php community, then please write [@marcj](https://github.com/marcj) in [gitter](https://gitter.im/php-cds/php-cds).
 
 A moderator must not limit discussion or censor ideas. In an ideal world, moderators wouldn't be involved at all. They do not have any special
 purpose other than to help maintain clean repositories on behalf of the community.

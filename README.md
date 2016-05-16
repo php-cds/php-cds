@@ -1,4 +1,4 @@
-# PHP Community Driven Standards
+# PHP Community-driven Standards
 
 <p align="center">
 <img src="https://avatars3.githubusercontent.com/u/19323243?v=3&s=300" width="150" />
@@ -9,7 +9,7 @@
 PHP CDS is not a group or organisation, it's a concept. Its core idea is for the community to create RFCs,
 discuss them, then hold a vote on their acceptance as a community standard.
 
-Its **aim is to** be as loosely coupled to any individual, group or organisation as possible.
+Its **aim is** to be as loosely coupled to any individual, group or organisation as possible.
 RFCs/Standards are proposed, discussed, agreed upon in the simplest possible fashion by the community.
 Anyone willing to contribute to the PHP community is welcome to participate in the CDS process.
 
@@ -42,15 +42,15 @@ None yet.
 
 ### Create an RFC
 
-An RFCs is a request-for-comment, mostly in form of an issue in the [php-cds/php-cds](https://github.com/php-cds/php-cds/issues/new) repository.
-The author describes his idea, maybe even first draft of an API and opens it immediately for discussion and voting.
+An RFC is a request-for-comment, mostly in form of an issue in the [php-cds/php-cds](https://github.com/php-cds/php-cds/issues/new) repository.
+Authors describe their idea, maybe even first draft of an API, and open it immediately for discussion and voting.
 
 ### Voting for an RFC
 
-RFCs can be voted on immeditely using [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
-using :+1: and :-1:. Based on this immediate feedback, the author can quickly see whether there is merit to their idea.
+RFCs can be voted on immediately using [GitHub reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
+using :+1: and :-1:. Based on this immediate feedback, authors can quickly see whether there is merit to their idea.
 
-Participants have the ability to watch for activity using Github's watch function on the [php-cds/php-cds](https://github.com/php-cds/php-cds) repository.
+Participants have the ability to watch for activity using GitHub's watch function on the [php-cds/php-cds](https://github.com/php-cds/php-cds) repository.
 
 ### Discussion on implementation
 
@@ -59,26 +59,26 @@ all discussion should happen in the [php-cds/php-cds-discussion](https://github.
 
 Discussion in a separate repository prevents noise for those who are only interested in voting.
 
-Those who want to be more involved in the community driven standards process can watch the [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion) repository.
+Those who want to be more involved in the Community-driven Standards process can watch the [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion) repository.
 
 ## Get involved
 
-All you need to get involved is a Github account. You can participate in several different ways:
+All you need to get involved is a GitHub account. You can participate in several different ways:
 
 ### Vote
 
-Watch the [php-cds/php-cds](https://github.com/php-cds/php-cds/watchers) and especially the [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) repositories for new RFCs and PSRs. Vote immediately using [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
+Watch the [php-cds/php-cds](https://github.com/php-cds/php-cds/watchers) and especially the [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) repositories for new RFCs and PSRs. Vote immediately using [GitHub reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
 with :+1: and :-1: on the incoming RFC's issue tracking page.
 
-You can vote RFcs in [php-cds/php-cds](https://github.com/php-cds/php-cds) and PSRs in [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr). We will however announce in [reddit.com/r/php](https://www.reddit.com/r/PHP/) and [Twitter @php_cds](https://twitter.com/php_cds) about new and ending PSR votings as well as ending RFCs.
+You can vote on RFCs in [php-cds/php-cds](https://github.com/php-cds/php-cds) and PSRs in [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr). We will however announce in [reddit.com/r/php](https://www.reddit.com/r/PHP/) and [Twitter @php_cds](https://twitter.com/php_cds) about new and ending PSR votings as well as ending RFCs.
 
 ### Discuss
 
-If you want to get more involved, you can watch the [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion) repository, where pull-requests and discussion about implementions happen. You can participate on all discussions in this repository.
+If you want to get more involved, you can watch the [php-cds/php-cds-discussion](https://github.com/php-cds/php-cds-discussion) repository, where pull requests and discussions about implementions happen. You can participate in all discussions in this repository.
 
 ### Support
 
-You can express your support for PHP-CDS by pressing the star button. This signals to other people that you support this concept and also that you have an active interest in adopting those community driven standards.
+You can express your support for PHP-CDS by pressing the star button. This signals to other people that you support this concept, and also that you have an active interest in adopting those Community-driven Standards.
 
 ### Moderate
 
@@ -91,31 +91,31 @@ purpose other than to help maintain clean repositories on behalf of the communit
 
 ### Create a RFC
 
-RFC (request for comments) are made using the Github issue tracker of the [php-cds/php-cds](https://github.com/php-cds/php-cds/issues) repository. You can create an issue, add a title prefixed with [RFC] and
+RFCs (request for comments) are made using the GitHub issue tracker of the [php-cds/php-cds](https://github.com/php-cds/php-cds/issues) repository. You can create an issue, add a title, prefixed with `[RFC]` and
 start writing about your idea. That's it.
 
 Try to be as concise as possible so readers will be able to quickly digest and understand your idea before voting.
 
 ## How to vote on an RFC
 
-In the Github issue tracker of the php-cds/php-cds repository you see all RFCs (issues with a title prefixed by `[RFC]`).
-After reading the issue description, try to understand it and express your opinion with a [Github reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
+In the GitHub issue tracker of the [php-cds/php-cds](https://github.com/php-cds/php-cds) repository you see all RFCs (issues with a title prefixed with `[RFC]`).
+After reading the issue description, try to understand it and express your opinion with a [GitHub reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
 using :+1: and :-1:.
 
 ## Implement/discuss an RFC
 
-Once you think you have enough positive feedback from the community (as seen by the [Github reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments))
+Once you think you have enough positive feedback from the community (as seen by the [GitHub reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments))
 you are free to open a discussion thread in the php-cds/php-cds-discussion repository. People that are interested in joining
-your RFC can discuss and reply at any time. You can also create Pull-Requests so people can easily comment on proposed code.
+your RFC can discuss and reply at any time. You can also create pull requests so people can easily comment on proposed code.
 
 ## Publish PSR
 
-Once on a RFC has positive community reaction, you have decided to create a discussion and a concrete implemention, and you think your work is
+Once an RFC has positive community reaction, you have decided to create a discussion and a concrete implemention, and you think your work is
 done and ready for prime time, the RFC becomes a PSR-proposal (PHP Standard Recommendation) as soon as you create a issue in the
 [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) repository.
 
 Creating an issue in this repository means you want to have a final vote on the RFC asking the community for your proposal to become an official PSR.
-It's completely up to you how you write your proposal. Any github member is able to express his opinion as a comment or as a vote using :+1: and :-1:.
+It's completely up to you how you write your proposal. Any GitHub member is able to express their opinion as a comment or as a vote using :+1: and :-1:.
 
 A vote is considered successful if 2/3 of all votes are positive (:+1:). This means that an RFC becomes a recommended standard, which will be displayed in the php-cds repositories. Please note that this doesn't mean everyone automatically will use it; its still just
 a recommendation.

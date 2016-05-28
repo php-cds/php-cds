@@ -123,7 +123,7 @@ a recommendation.
 ## PSR names and changes
 
 PSRs do not have numbers, they have names. For example "PSR-event-dispatcher" or "PSR-logging", ideally corresponding to the PHP
-namespace in which they reside ("PSR-event-dispatcher" -> `Psr\EventDispatcher`).
+namespace in which they reside ("PSR-event-dispatcher" -> `Pcs\EventDispatcher`).
 
 PSRs do not have an initial version number attached. If a change is required, the version will be incremented by 1.
 For example, an update to "PSR-event-dispatcher" would become "PSR-event-dispatcher-2".
@@ -131,5 +131,5 @@ The current version of all accepted PSRs are displayed in the php-cds repositori
 
 ## Close RFC and PSR
 
-Every issue created in [php-cds/php-cds](https://github.com/php-cds/php-cds) (which represents an RFC) or [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) (which represents a PSR) has an allowed voting window. The voting window is always 14 days from the creation date. If an RFC or PSR has more than 1/3 negative votes, it will be closed.
+Every issue created in [php-cds/php-cds](https://github.com/php-cds/php-cds) (which represents an RFC) or [php-cds/php-cds-psr](https://github.com/php-cds/php-cds-psr) (which represents a PSR) has an allowed voting window. The voting window is always 1 month from the creation date. If an RFC or PSR has more than 1/3 negative votes, it will be closed.
 
